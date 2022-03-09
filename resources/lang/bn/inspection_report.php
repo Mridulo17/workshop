@@ -1,0 +1,35 @@
+<?php
+
+return [
+
+    "inspection_report" => "পরিদর্শন প্রতিবেদন",
+    "workshop_order_number" => "ওয়ার্কশপ অর্ডার ট্র্যাকিং নাম্বার",
+    "inspection_date" => "পরিদর্শন তারিখ",
+    "tracking_no" => "ট্র্যাকিং নম্বর",
+    "demands" => "চাহিদাসমূহ",
+    "order_date" => "আগমনের তারিখ",
+    "workshop" => "ওয়ার্কশপ/শাখা",
+    "type" => "প্রকার",
+    "category" => "ধরন",
+    "brand" => "ব্রান্ড",
+    "model" => "মডেল",
+    "product" => "গাড়ী/পাম্প/সরঞ্জাম",
+    "product_details" => "গাড়ী/পাম্প/সরঞ্জাম",
+    "registration_number" => "রেজিস্ট্রেশন নাম্বার",
+    "registration_divisional_number" => "রেজিস্ট্রেশন / বিভাগীয় নাম্বার",
+    "serial_number" => "ক্রমিক নাম্বার",
+    "mileage" => "মিটার রিডিং",
+    "fuel_type" => "ফুয়েল টাইপ",
+    "fuel" => "ফুয়েল রিডিং",
+    "driver" => "গাড়ী চালক",
+    "faults" => "সমস্যাসমূহ",
+    "fault" => "সমস্যা",
+    "demand" => "চাহিদা",
+    "demands" => "চাহিদা সমূহ",
+    "add_demand" => "চাহিদা যোগ করুন",
+    "inspection_report_no" => "সমস্যা নং",
+    "christ" => "খ্রিঃ",
+    "ad_dad" => "এডি/ডিএডি",
+    "inspection_report_details" => "নং পরিদর্শন প্রতিবেদন এর বিস্তারিত",
+
+];

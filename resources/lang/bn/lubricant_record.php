@@ -1,0 +1,27 @@
+<?php
+
+return [
+    "lubricant_record" => "লুব্রিকেন্ট রেকর্ড",
+    "lubricant_record_details" => "লুব্রিকেন্ট রেকর্ড বিস্তারিত",
+    "lubricants" => "লুব্রিকেন্ট সমূহ",
+    "tracking_no" => "ট্র্যাকিং নং",
+    "add_lubricant" => "লুব্রিকেন্ট যোগ করুন",
+    "mobil_oil" => "মবিল অয়েল (মাইল মিটার)",
+    "gear_oil" => "গিয়ার অয়েল (মাইল মিটার)",
+    "brake_oil" => "ব্রেক অয়েল (মাইল মিটার)",
+    "hydraulic_oil" => "হাইড্রলিক অয়েল (মাইল মিটার)",
+    "grease" => "গ্রিজিং (মাইল মিটার)",
+    "substituter" =>"বদলিকারক",
+    "substituter_signature" => "বদলিকারকের স্বাক্ষর",
+    "substituter_date" => "বদলিকারকের তারিখ",
+    "substituter_signature_preview" => "বদলিকারকের স্বাক্ষর (ভিউ)",
+    "substituter_signature_existing" => "বদলিকারকের স্বাক্ষর (আগের)",
+    "remove_substituter_signature" => "বদলিকারকের স্বাক্ষর ডিলিট করুন",
+    "registration_divisional_number" => "রেজি",
+    "sso" => "এসএসও",
+    "sso_signature" => "এসএসও এর স্বাক্ষর",
+    "sso_date" => "এসএসও এর তারিখ",
+    "sso_signature_preview" => "এসএসও এর স্বাক্ষর  (ভিউ)",
+    "sso_signature_existing" => "এসএসও এর স্বাক্ষর (আগের ছবি)",
+    "remove_sso_signature" => "এসএসও এর স্বাক্ষর ডিলিট করুন",
+];
